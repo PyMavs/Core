@@ -9,5 +9,5 @@ Teams:
 
 # Travel more than 25 mi. from campus:
 
-1. Paperwork needs to be completed
+1. Paperwork needs to be completed - https://www.uta.edu/studentorganizations/organizations/general-policies/travel.php
 2. Members need to fill out a form too
