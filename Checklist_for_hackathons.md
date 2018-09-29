@@ -1,7 +1,7 @@
-[ ] Sign up for the hackathons
-[ ] Depending on who gets accepted, we form teams
-[ ] Have a meeting sometime before the hackathon to decide on ideas and teams
-[ ] Decide on travel, fare and date
+- [ ] Sign up for the hackathons
+- [ ] Depending on who gets accepted, we form teams
+- [ ] Have a meeting sometime before the hackathon to decide on ideas and teams
+- [ ] Decide on travel, fare and date
 
 Teams:
 1. Divide teams based on ideas
